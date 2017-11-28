@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wedding{
+    width: 100%;
+    /*height: 800px;*/
+    margin-top: 20px;
+    /*border: 1px solid red;*/
+    text-align: center;
+    padding: 20px 0px;
+}
+
+.cursive{
+    font-family: 'Cookie', cursive;
+}
+
+.cursive2{
+    font-family: 'Amatic SC', cursive;
+}
+
+.wedding-page{
+    width: 553px;
+    height: 650px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
+    margin: 20px auto;
+    /*margin-bottom: 100px;*/
+    /*padding: 20px;*/
+}
+
+.floral1{
+    height: 30px;
+    margin: 20px 0 30px 0;
+}
+
+.floral2{
+    height: 50px;
+    /*float: bottom;*/
+    /*width: 400px;*/
+}
+
+.banner{
+    height: 66px;
+    width: 604px;
+    position: relative;
+    top: 25px;
+    right: 25px;
+    z-index: 0;
+}
+
+.banner-text{
+    position: relative;
+    top: -30px;
+    color: rgb(238, 238, 238);
+}
+
+.bridesmaids{
+    /*height: 800px;*/
+    width: 400px;
+    /*border: 1px solid green;*/
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 20px;
+    text-align: center;
+}
+
+.groomsmen{
+    /*height: 800px;*/
+    width: 400px;
+    /*border: 1px solid green;*/
+    display: inline-block;
+    margin-left: 20px;
+    text-align: center;
+}
+
+.party-img{
+    height: 100px;
+    margin-bottom: 30px;
+}
+
+.party{
+    height: 140px;
+    margin: 10px auto;
+    border: 3px solid white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
+}
+
+.bridesmaids p, .groomsmen p{
+    font-size: 12px;
+    color: rgb(119, 119, 119);
+    width: 300px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+
+.bridesmaids h4, .groomsmen h4{
+    margin: 15px;
+}
+
+
+.break{
+    /*height: 40px;*/
+    width: 100%;
+    /*background-color: yellow;*/
+    margin: 60px 0px;
+}
+
+.line{
+    height: 4px;
+    width: 300px;
+    display: inline-block;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.break p{
+    display: inline-block;
+    margin: 0px 10px;
+}
+
+.directions{
+    font-size: 12px;
+    color: rgb(119, 119, 119);
+    /*margin-top: 20px;*/
+    width: 400px;
+    margin: 20px auto;
+}

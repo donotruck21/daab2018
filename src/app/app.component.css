@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    margin: 0 auto;
+    width: 960px;
+    /*height: 1000px;*/
+    /*border: 1px dotted green;*/
+    background-color: white;
+    padding-top: 20px;
+}
+
+.main-title{
+    font-family: 'Amatic SC', cursive;
+}
+
+.header{
+    text-align: center;
+}
+
+.header h1{
+    margin-bottom: 20px;
+    font-size: 50px;
+}
+
+.header a{
+    font-family: 'Cookie', cursive;
+    color: #5f97b3;
+    font-size: 30px;
+    margin: 0 15px;
+}
+
+span{
+    font-size: 20px;
+    position: relative;
+    bottom: 10px;
+    /*line-height: 100px;*/
+}

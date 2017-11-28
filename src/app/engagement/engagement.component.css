@@ -1,0 +1,131 @@
+.engagement{
+    width: 100%;
+    /*height: 800px;*/
+    margin-top: 20px;
+    /*border: 1px solid red;*/
+    text-align: center;
+    padding: 20px 0px;
+}
+
+.cursive{
+    font-family: 'Cookie', cursive;
+}
+
+.cursive2{
+    font-family: 'Amatic SC', cursive;
+}
+
+
+.ring-box{
+    height: 400px;
+    border: 5px solid white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
+}
+
+.left-column{
+    width:300px;
+    /*height: 1000px;*/
+    /*border: 1px solid green;*/
+    display: inline-block;
+    vertical-align: top;
+}
+
+.right-column{
+    width:300px;
+    /*height: 1000px;*/
+    /*border: 1px solid green;*/
+    display: inline-block;
+    vertical-align: top;
+}
+
+.proposal-pic{
+    border: 5px solid white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.4);
+    margin-bottom: 15px;
+}
+
+.proposal-text{
+    font-size: 14px;
+}
+
+.pic0{
+    height: 150px;
+}
+
+.pic1{
+    height: 250px;
+}
+
+.middle-column{
+    width:100px;
+    /*height: 2000px;*/
+    /*background-color: rgb(144, 144, 144);*/
+    display: inline-block;
+    vertical-align: top;
+}
+
+.tl{
+    border-bottom: 2px solid pink;
+}
+
+.tl1{
+    margin-top: 60px;
+}
+
+.tl2{
+    margin-top: 230px;
+}
+
+.tl3{
+    margin-top: 480px;
+}
+
+.tl4{
+    margin-top: 580px;
+}
+
+.tl5{
+    margin-top: 620px;
+}
+
+.tl6{
+    margin-top: 500px;
+}
+
+.mid-left{
+    height: 1316px;
+    width:40px;
+    display: inline-block;
+    vertical-align: top;
+    /*background-color: yellow;*/
+    border-right: 1px solid pink;
+}
+
+.mid-right{
+    /*height: 2000px;*/
+    width:40px;
+    display: inline-block;
+    vertical-align: top;
+    /*background-color: red;*/
+    border-left: 1px solid pink;
+}
+
+.break{
+    /*height: 40px;*/
+    width: 100%;
+    /*background-color: yellow;*/
+    margin: 40px 0px;
+}
+
+.line{
+    height: 4px;
+    width: 200px;
+    display: inline-block;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.break p{
+    display: inline-block;
+    margin: 0px 10px;
+}
