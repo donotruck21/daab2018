@@ -10,6 +10,9 @@ export class StoryComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
+    
+
   }
+  
 
 }
